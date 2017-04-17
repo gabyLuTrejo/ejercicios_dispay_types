@@ -1,7 +1,8 @@
 div {
   height: 50px;
+  width: 150px;
   padding: 5px;
-  display: inline;
+  display: inline-block;
   margin-right: 5px;
 }
 .amarillo {

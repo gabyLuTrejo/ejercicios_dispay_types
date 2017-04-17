@@ -1,0 +1,11 @@
+div {
+  height: 50px;
+  padding: 5px;
+}
+.amarillo {
+  background-color: yellow;
+}
+
+.rosa {
+  background-color: fuchsia;
+}
